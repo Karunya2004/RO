@@ -1029,7 +1029,7 @@ footer {
     }
 
     .hero p {
-        font-size: 10px;
+        font-size: 10.6px;
         top:-350px;
         left:-18px;
     }
@@ -1106,12 +1106,9 @@ footer {
             height: 266px;
             margin-bottom: 20px;
         }
-    }
-
         #about .about-content img {
             width: 89%;
-            margin-top: -78px;
+            margin-top: -100px;
             margin-left: -19px;
         }
-
-
+    }
